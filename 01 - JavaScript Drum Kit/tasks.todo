@@ -1,0 +1,6 @@
+Need to learn:
+    ☐ addEventListener types
+    ☐ const type
+    ☐ classList
+    ☐ play()
+    ☐ keys.forEach(key => key.addEventListener('transitionend',removeTransition)
